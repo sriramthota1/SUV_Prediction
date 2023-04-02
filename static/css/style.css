@@ -1,0 +1,38 @@
+body{
+    font-family:verdana, Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+    background-image:url("../images/picture1.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+table{
+    background-color: #f3f2f2;
+    padding:20px;
+    border-radius:5px;
+}
+td{
+    padding: 5px;
+}
+#submit{
+    background-color: aqua;
+    border: 10px;
+    width: 100%;
+    padding: 15px 32px;
+}
+#submit:hover{
+    background-color: #008bf9
+}
+h1,p{
+    background-color:grey;
+    padding: 5px;
+    border-radius:5px;
+    width:50%
+}
+input[type="submit"]{
+    padding: 8px 0px;
+    border: 1px solid #cccc;
+    margin:8px 0px;
+    border-radius: 4px;
+}
